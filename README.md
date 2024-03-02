@@ -1,4 +1,4 @@
-spregcs_stata
+Spatial Cross Sections Econometric Regression Models Use spregcs With STATA 18
 
 Olah Data Semarang
 
