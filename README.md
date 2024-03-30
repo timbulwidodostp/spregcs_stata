@@ -1,6 +1,8 @@
 # spregcs
 Spatial Cross Sections Econometric Regression Models Use spregcs With STATA 18
 
+https://www.youtube.com/watch?v=EyWdAAY19rI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
